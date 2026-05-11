@@ -217,7 +217,7 @@ print(me.philosophy())
 
 [![Email](https://img.shields.io/badge/GMAIL-surajkumarjha094-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:surajkumarjha094@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-surajkumarjha094-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=0D0D0D)](https://github.com/surajkumarjha094)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/surajkumarjha094)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/suraj-kumar-95565a2b5/)
 [![Twitter](https://img.shields.io/badge/TWITTER-%40surajkjha-FF0080?style=for-the-badge&logo=x&logoColor=white&labelColor=0D0D0D)](https://twitter.com/surajkumarjha094)
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Gaming Setup Banner"/>
+<img src="./header.gif" width="100%" alt="Gaming Setup Banner"/>
 
 <br/>
 
@@ -188,6 +188,30 @@ One or two sentences describing what this project solves and the interesting eng
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=surajkumarjha094&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B"/>
+
+</div>
+
+<br/>
+
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake animation" src="./dist/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 

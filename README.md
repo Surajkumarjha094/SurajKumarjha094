@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" alt="Gaming Setup Banner"/>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Suraj%20Kumar%20Jha&fontSize=46&fontColor=E2E8F0&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=68&descSize=16&descColor=38BDF8&animation=fadeIn"/>

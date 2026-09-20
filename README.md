@@ -64,6 +64,20 @@ One or two sentences about what this project solves.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=surajkumarjha094&theme=tokyonight"/>
 </p>
 
+<h1 align="center">3D Contribution Graph 🧊</h1>
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
+
+<h1 align="center">Contribution Snake 🐍</h1>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake animation" src="./dist/github-contribution-grid-snake.svg"/>
+</picture>
+</p>
+
 <h1 align="center">Let's Get Connected</h1>
 
 ### Get in Touch! 📩
